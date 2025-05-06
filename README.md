@@ -29,13 +29,6 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
-- SQL Development
-- Data Architect
-- Data Engineering  
-- ETL Pipeline Developer  
-- Data Modeling  
-- Data Analytics  
 
 ---
 
@@ -57,7 +50,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
+### BI: Analytics & Reporting (Data Analysis) [Still Ongoing]
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
