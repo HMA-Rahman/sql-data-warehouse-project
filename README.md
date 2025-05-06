@@ -57,3 +57,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
 - **Product Performance**
 - **Sales Trends**
+
+
+[Disclaimer: I created this project following the steps of DataWithBaraa. 
+However, I do undestand everything I have done here and I didn't just copy paste.]
